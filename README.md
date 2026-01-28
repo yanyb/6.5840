@@ -4,11 +4,11 @@
 
 | 实验 | 状态 | 说明 |
 |------|------|------|
-| Lab1: MapReduce | ✅ 已完成 |
-| Lab2: Key/Value Server | ✅ 已完成 |
-| Lab3: Raft | ✅ 已完成  |
-| Lab4: Fault-tolerant Key/Value Service | ✅ 已完成 |
-| Lab5: Sharded Key/Value Service | 🔄 进行中 |
+| Lab1:| MapReduce | ✅ 已完成 |
+| Lab2: |Key/Value Server | ✅ 已完成 |
+| Lab3: |Raft | ✅ 已完成  |
+| Lab4: |Fault-tolerant Key/Value Service | ✅ 已完成 |
+| Lab5: |Sharded Key/Value Service | 🔄 进行中 |
 
 
 ## ⚠️ 问题：Lab5 - 网络问题与配置变更的区分
